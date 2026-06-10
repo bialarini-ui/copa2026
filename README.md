@@ -1,5 +1,5 @@
 # Tabela Oficial Passalacqua — Copa 2026
 
-Arquivos prontos para GitHub Pages.
+Versão visual atualizada.
 
 Senha admin: PassaCopa26
